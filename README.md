@@ -1,4 +1,6 @@
 # Crypto-Clustering-Challenge
+Code completed with help of UCF Tutor Justin, Xpert AI, and Office Hours
+
 Module 19 Challenge
 
 Instructions
